@@ -10,12 +10,12 @@
 
 <p align="center">
   <a href="https://github.com/Pankaj0536">
-    <img src="https://img.shields.io/github/followers/Pankaj0536?style=flat-square&logo=github&label=Followers"/>
+    <img src="https://img.shields.io/github/followers/Hey-Pankaj?style=flat-square&logo=github&label=Followers"/>
   </a>
   <a href="https://github.com/Pankaj0536">
-    <img src="https://img.shields.io/github/stars/Pankaj0536?style=flat-square&logo=github&label=Stars"/>
+    <img src="https://img.shields.io/github/stars/Hey-Pankaj?style=flat-square&logo=github&label=Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pankaj0536&style=flat-square&color=7C83FD&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Hey-Pankaj&style=flat-square&color=7C83FD&label=Profile+Views"/>
 </p>
 
 <br>
