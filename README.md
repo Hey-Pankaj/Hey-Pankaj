@@ -29,7 +29,6 @@
   <br>
   <b>ideas → code → experiments → real-world solutions.</b>
 </p>
-
 <br>
 
 <!-- ======================= CURRENT FOCUS ======================= -->
