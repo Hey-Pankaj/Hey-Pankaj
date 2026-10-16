@@ -5,17 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%92%BB;Developer+%7C+Problem+Solver+%7C+Builder+%F0%9F%9A%80;Exploring+AI%2C+Computer+Vision+%26+Web+Development;Turning+Ideas+into+Working+Projects"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pankaj0536">
-    <img src="https://img.shields.io/github/followers/Hey-Pankaj?style=flat-square&logo=github&label=Followers"/>
-  </a>
-  <a href="https://github.com/Pankaj0536">
-    <img src="https://img.shields.io/github/stars/Hey-Pankaj?style=flat-square&logo=github&label=Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Hey-Pankaj&style=flat-square&color=7C83FD&label=Profile+Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=Computer+Engineering+Student+%F0%9F%92%BB;Full-Stack+Developer+%7C+Problem+Solver+%F0%9F%9A%80;Exploring+AI%2FML+%26+Computer+Vision+%F0%9F%A4%96;Building+Projects+That+Matter+%E2%9A%A1;Learning.+Building.+Innovating.+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <br>
@@ -24,12 +14,6 @@
 
 <h2 align="center">⚡ Building Things That Matter</h2>
 
-<p align="center">
-  I'm <b>Pankaj</b> — a Computer Engineering student who enjoys turning
-  <br>
-  <b>ideas → code → experiments → real-world solutions.</b>
-</p>
-<br>
 
 <!-- ======================= CURRENT FOCUS ======================= -->
 
