@@ -10,22 +10,6 @@
 
 ---
 
-<h2 align="center">📍 My Location & Route</h2>
-
-<p align="center">
-  <a href="https://www.google.com/maps/dir/?api=1&origin=Andheri+Railway+Station,+Mumbai&destination=Bharat+Ratnam+Mega+CFC,+SEEPZ,+Andheri+East,+Mumbai&travelmode=transit">
-    <img src="https://maps.googleapis.com/maps/api/staticmap?center=19.1229,72.8612&zoom=13&size=900x400&markers=color:green%7Clabel:A%7C19.120561,72.8487279&markers=color:red%7Clabel:B%7C19.125247,72.8736472&path=color:0x4285F4FF%7Cweight:5%7C19.120561,72.8487279%7C19.125247,72.8736472&key=YOUR_GOOGLE_MAPS_API_KEY" alt="Google Maps Route" width="100%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.google.com/maps/dir/?api=1&origin=Andheri+Railway+Station,+Mumbai&destination=Bharat+Ratnam+Mega+CFC,+SEEPZ,+Andheri+East,+Mumbai&travelmode=transit">
-    <img src="https://img.shields.io/badge/🗺️_View_Route_on_Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">⚡ Building Things That Matter</h2>
 
 <h2>🚀 What I'm Into Right Now</h2>
@@ -171,14 +155,6 @@ From **programming fundamentals** to **AI concepts, web development and product 
 
 <p align="center">
   <i>Building consistently. Learning continuously. 🚀</i>
-</p>
-
----
-
-<h2 align="center">🟡 Watch My Contributions Eat</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
 </p>
 
 ---
