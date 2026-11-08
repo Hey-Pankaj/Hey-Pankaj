@@ -1,4 +1,3 @@
-# ⚡ Pankaj Rana
 
 <p align="center">   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pankaj%20Rana&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=16&descColor=ffffff"/>
@@ -10,111 +9,13 @@
 
 ---
 
-<h2 align="center">⚡ Building Things That Matter</h2>
-
-<h2>🚀 What I'm Into Right Now</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-### 🧠
-
-**Problem Solving**
-
-DSA  
-Algorithms  
-Logical Thinking
-
-</td>
-<td align="center" width="200">
-
-### 🤖
-
-**AI & Vision**
-
-Computer Vision  
-OpenCV  
-AI Applications
-
-</td>
-<td align="center" width="200">
-
-### 🌐
-
-**Development**
-
-Web Development  
-Python  
-Software Projects
-
-</td>
-<td align="center" width="200">
-
-### 💡
-
-**Building**
-
-Hackathons  
-Product Ideas  
-Experiments
-
-</td>
-</tr>
-</table>
-
----
-
 <h2>🛠️ Technologies I Work With</h2>
+
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode&perline=7"/>
 </p>
 
-<p align="center">
-  <i>Not trying to know everything — trying to build better with what I know.</i>
-</p>
-
----
-
-<h2>🔥 Things I'm Building</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Smart Attendance Management System
-
-An AI-powered attendance system exploring **face detection, recognition and automated attendance**.
-
-**Stack**
-
-`Python` `OpenCV` `DeepFace` `TensorFlow` `Streamlit`
-
-<br>
-
-<a href="https://github.com/Pankaj0536/SAMS">
-  <img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="50%">
-
-### 💡 Experimental Projects
-
-I enjoy building small experiments to understand how things actually work.
-
-From **programming fundamentals** to **AI concepts, web development and product ideas**.
-
-<br>
-
-<a href="https://github.com/Pankaj0536?tab=repositories">
-  <img src="https://img.shields.io/badge/View_My_Work-24243e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -147,14 +48,6 @@ From **programming fundamentals** to **AI concepts, web development and product 
 
 <p align="center">
   <b>Every bug teaches something. Every project leaves something behind.</b>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Activity</h2>
-
-<p align="center">
-  <i>Building consistently. Learning continuously. 🚀</i>
 </p>
 
 ---
