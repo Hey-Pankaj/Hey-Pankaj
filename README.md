@@ -16,9 +16,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Antigravity-Exploring-7C83FD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-AI-FF8C42?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="React logo" role="img">
+    <rect width="52" height="52" rx="10" fill="#20232A"/>
+    <circle cx="26" cy="26" r="9" fill="none" stroke="#61DAFB" stroke-width="3"/>
+    <g stroke="#61DAFB" stroke-width="2.8" stroke-linecap="round" fill="none">
+      <path d="M26 7.5v37"/>
+      <path d="M7.5 26h37"/>
+      <path d="M12.6 12.6l27.8 27.8"/>
+      <path d="M39.4 12.6L11.6 40.4"/>
+    </g>
+  </svg>
+
+  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="Antigravity logo" role="img">
+    <rect width="52" height="52" rx="10" fill="#7C83FD"/>
+    <circle cx="26" cy="26" r="16" fill="none" stroke="#FFFFFF" stroke-width="2.5" opacity="0.85"/>
+    <path d="M16 26c5-10 15-10 20 0s-5 10-10 10-10-3-10-10z" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+  </svg>
+
+  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="Claude logo" role="img">
+    <rect width="52" height="52" rx="10" fill="#FF8C42"/>
+    <path d="M18 33.5V18.5h7.2c4.5 0 7.3 2.3 7.3 7.1 0 4.9-2.8 7.9-7.3 7.9H18zm5.9-4.9h1.1c1.9 0 3.1-1 3.1-2.9 0-1.8-1.2-2.8-3.1-2.8h-1.1v5.7z" fill="#FFFFFF"/>
+    <path d="M32 18.5h6.2v15H32z" fill="#FFFFFF" opacity="0.9"/>
+  </svg>
 </p>
 
 ---
