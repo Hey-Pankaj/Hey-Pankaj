@@ -11,11 +11,15 @@
 
 <h2>🛠️ Technologies I Work With</h2>
 
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode,react&perline=7"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Antigravity-Exploring-7C83FD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-AI-FF8C42?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
 
 ---
 
