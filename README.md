@@ -1,6 +1,5 @@
-
 <p align="center">   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pankaj%20Rana&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=16&descColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pankaj%20Rana&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=16&descColor=ffffff" alt="Pankaj Rana Header Banner"/>
 </p>
 
 <p align="center">
@@ -9,44 +8,29 @@
 
 ---
 
-<h2>🛠️ Technologies I Work With</h2>
+<h2 align="center">🛠️ Technologies I Work With</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode,react&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode&perline=7" alt="Tech Stack Icons"/>
 </p>
 
 <p align="center">
-  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="React logo" role="img">
-    <rect width="52" height="52" rx="10" fill="#20232A"/>
-    <circle cx="26" cy="26" r="9" fill="none" stroke="#61DAFB" stroke-width="3"/>
-    <g stroke="#61DAFB" stroke-width="2.8" stroke-linecap="round" fill="none">
-      <path d="M26 7.5v37"/>
-      <path d="M7.5 26h37"/>
-      <path d="M12.6 12.6l27.8 27.8"/>
-      <path d="M39.4 12.6L11.6 40.4"/>
-    </g>
-  </svg>
-
-  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="Antigravity logo" role="img">
-    <rect width="52" height="52" rx="10" fill="#7C83FD"/>
-    <circle cx="26" cy="26" r="16" fill="none" stroke="#FFFFFF" stroke-width="2.5" opacity="0.85"/>
-    <path d="M16 26c5-10 15-10 20 0s-5 10-10 10-10-3-10-10z" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
-  </svg>
-
-  <svg width="52" height="52" viewBox="0 0 52 52" aria-label="Claude logo" role="img">
-    <rect width="52" height="52" rx="10" fill="#FF8C42"/>
-    <path d="M18 33.5V18.5h7.2c4.5 0 7.3 2.3 7.3 7.1 0 4.9-2.8 7.9-7.3 7.9H18zm5.9-4.9h1.1c1.9 0 3.1-1 3.1-2.9 0-1.8-1.2-2.8-3.1-2.8h-1.1v5.7z" fill="#FFFFFF"/>
-    <path d="M32 18.5h6.2v15H32z" fill="#FFFFFF" opacity="0.9"/>
-  </svg>
+  <img src="svgs/react.svg" width="48" height="48" alt="React" />
+  &nbsp;&nbsp;
+  <img src="svgs/antigravity.svg" width="48" height="48" alt="Antigravity" />
+  &nbsp;&nbsp;
+  <img src="svgs/claude.svg" width="48" height="48" alt="Claude" />
 </p>
 
 ---
 
 <h2 align="center">🧩 My Development Loop</h2>
 
-<p align="center">
+<table align="center">
+<tr>
+<td>
 
-```text
+<pre>
        💡 IDEA
          │
          ▼
@@ -65,9 +49,11 @@
       🚀 IMPROVE
          │
          └──────────────► BUILD AGAIN
-```
+</pre>
 
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <b>Every bug teaches something. Every project leaves something behind.</b>
@@ -75,14 +61,14 @@
 
 ---
 
-<h2>🎯 The Road Ahead</h2>
+<h2 align="center">🎯 The Road Ahead</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/DSA-Improving-7C83FD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Exploring-7C83FD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web-Building-7C83FD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hackathons-Participating-7C83FD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ideas-Experimenting-7C83FD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Improving-7C83FD?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/AI-Exploring-7C83FD?style=for-the-badge" alt="AI"/>
+  <img src="https://img.shields.io/badge/Web-Building-7C83FD?style=for-the-badge" alt="Web"/>
+  <img src="https://img.shields.io/badge/Hackathons-Participating-7C83FD?style=for-the-badge" alt="Hackathons"/>
+  <img src="https://img.shields.io/badge/Ideas-Experimenting-7C83FD?style=for-the-badge" alt="Ideas"/>
 </p>
 
 ---
@@ -90,19 +76,17 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/pankaj0536/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Hey_P4JR2A">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:pankajrana2754@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/pankaj0536/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Hey_P4JR2A" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pankajrana2754@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -112,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="Footer Banner"/>
 </p>
