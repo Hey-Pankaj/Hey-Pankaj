@@ -296,7 +296,7 @@ An intelligent urban parking management system combining computer vision surveil
 </td>
 <td width="33%" valign="top">
   <div align="center">
-    <img src="assets/beru-companion.jpg" width="100%" alt="Beru — AI & Computer Vision" style="border-radius: 6px;"/>
+    <img src="assets/beru-glow.jpg" width="100%" alt="Beru — AI & Computer Vision" style="border-radius: 6px;"/>
     <h4>🐜 Beru</h4>
     <b>AI & Computer Vision</b>
   </div>
