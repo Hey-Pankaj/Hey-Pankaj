@@ -13,13 +13,13 @@
 
 # ⚡ PANKAJ RANA
 ### 🗡️ THE SHADOW DEVELOPER
-**Computer Engineering Student • Full-Stack Developer • Applied AI Explorer**
+**Computer Engineering Student • Builder of SANAIRO • Physics Educator**
 
 <p align="center">
   <em>"From E-Rank to Shadow Monarch. Every project is a quest. Every bug is a dungeon."</em>
 </p>
 
-<!-- RESTYLED MINIMALIST HUNTER CHANNELS -->
+<!-- ACTION CHANNELS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj0536/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808" alt="LinkedIn"/>
@@ -42,7 +42,7 @@
 
 ---
 
-<!-- SECTION 1: SYSTEM HUD INTERFACE (CLEAN, AUTHENTIC & MOBILE-FRIENDLY) -->
+<!-- SECTION 1: SYSTEM STATUS HUD -->
 <h2 align="center">📊 System Status HUD</h2>
 
 <table align="center" width="100%">
@@ -54,19 +54,19 @@
 ║               [ SYSTEM STATUS HUD • ONLINE ]                 ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  HUNTER IDENTIFIER : Pankaj Rana                             ║
-║  CLASSIFICATION    : Computer Engineering / Full-Stack Dev   ║
-║  DESIGNATION       : The Shadow Developer                    ║
-║  CURRENT STATUS    : Continuously Evolving (Daily Expansion) ║
+║  AFFILIATION       : Computer Engineering Student            ║
+║  CORE ROLE         : Full-Stack Developer & Builder          ║
+║  ADDITIONAL ROLE   : Physics Educator (Class 11 & 12)        ║
 ║  SPECIALIZATION    : Modern Web Systems & Computer Vision    ║
+║  CURRENT STATUS    : Continuously Evolving (Daily Expansion) ║
 ╠══════════════════════════════════════════════════════════════╣
 ║  [ ACTIVE SHADOW ECOSYSTEM ]                                 ║
 ║  • Beru            : AI & Computer Vision Pipelines          ║
 ║  • Igris           : Backend Architecture & REST Services    ║
 ║  • Iron            : Infrastructure, Tooling & Environments  ║
 ╠══════════════════════════════════════════════════════════════╣
-║  [ CURRENT DIRECTIVE ]                                       ║
-║  "Become a stronger engineer. Build products that solve      ║
-║   real-world problems. No shortcuts. ARISE."                 ║
+║  [ SYSTEM DIRECTIVE ]                                        ║
+║  "No shortcuts. Only consistent progression. ARISE."         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -76,44 +76,59 @@
 
 ---
 
-<!-- SECTION 2: THE DEVELOPER JOURNEY (FACTUAL VISUAL PROGRESSION) -->
-<h2 align="center">🏛️ The Progression Path — From Novice to Builder</h2>
+<!-- SECTION 2: BEYOND THE CODE (THE HUMAN BEHIND THE MONARCH) -->
+<h2 align="center">👤 Beyond the Code — The Human Behind the Monarch</h2>
+
+<p align="center">
+  <i>"Code is the tool; curiosity and purpose are the engine."</i>
+</p>
 
 <table align="center" width="100%">
 <tr>
-<td width="33%" valign="top">
-  <div align="center">
-    <h4>🚪 PHASE 01 • THE GATE</h4>
-    <small><b>Engineering Foundations</b></small>
-  </div>
-  <p>
-    Entered Computer Engineering with zero shortcuts. Mastered procedural logic, data structures, and computational foundations in <b>C</b> and <b>C++</b>.
-  </p>
+<td width="50%" valign="top">
+
+#### 🎓 Engineering & Product Building
+- **Computer Engineering Student**: Deeply invested in computer science fundamentals, distributed web systems, and applied artificial intelligence.
+- **Builder of SANAIRO**: Architecting a mindful social web ecosystem designed to replace mindless scrolling with intentional daily habits, reflection, and peer accountability.
+- **Product & Startup Curious**: Fascinated by startup engineering, product-market fit, and turning raw logic into software that genuinely helps people.
+
 </td>
-<td width="33%" valign="top">
-  <div align="center">
-    <h4>⚔️ PHASE 02 • THE RAID</h4>
-    <small><b>Full-Stack Architecture</b></small>
-  </div>
-  <p>
-    Transitioned into full-stack development. Built resilient web architectures, responsive frontends with <b>React</b>, and scalable backends using <b>Node.js</b> and <b>MySQL/MongoDB</b>.
-  </p>
-</td>
-<td width="33%" valign="top">
-  <div align="center">
-    <h4>👑 PHASE 03 • THE AWAKENING</h4>
-    <small><b>Applied Systems & Vision</b></small>
-  </div>
-  <p>
-    Actively engineering production web products (<b>SANAIRO</b>) and intelligent automated computer vision pipelines (<b>SAMS</b>) to solve real problems.
-  </p>
+<td width="50%" valign="top">
+
+#### ⚛️ Physics Educator & Community
+- **Physics Educator (Class 11 & 12)**: Mentoring senior secondary students in foundational physics. Breaking down complex mechanics, electromagnetism, and calculus into intuitive, first-principles mental models.
+- **First-Principles Thinking**: Teaching physics directly sharpens algorithmic problem-solving—both require deconstructing complex chaos into simple, verifiable laws.
+- **Community & Hackathons**: Active collaborator in developer circles, campus technical events, and open-source explorations.
+
 </td>
 </tr>
 </table>
 
 ---
 
-<!-- SECTION 3: DUNGEON CLEARANCE LOG (PRIMARY PROJECT EVIDENCE) -->
+<!-- SECTION 3: CURRENT MISSION (ACTIVE PRIORITIES) -->
+<h2 align="center">🎯 Current Mission — Active Directives</h2>
+
+<p align="center">
+  <i>"Active learning priorities and ongoing development sprints."</i>
+</p>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+- 🚀 **Main Raid • Scaling SANAIRO**: Iterating on habit tracking analytics, distraction-free feeds, and real-time community rooms on [sanairo.com](https://sanairo.com).
+- 🧠 **Daily Dungeon • Algorithmic Rigor (DSA)**: Daily competitive problem solving in C++ and Python across graphs, dynamic programming, and complexity optimization ([DSA-CODES](https://github.com/Hey-Pankaj/DSA-CODES)).
+- 🤖 **Skill Awakening • Applied Vision & AI**: Deepening real-time feature extraction, facial recognition models, and pipeline optimization ([sams-PL](https://github.com/Hey-Pankaj/sams-PL)).
+- ⚡ **Architecture Focus • Full-Stack Maturity**: Expanding full-stack Next.js patterns, robust database indexing, and resilient REST microservices.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- SECTION 4: DUNGEON CLEARANCE LOG (FEATURED PROJECTS) -->
 <h2 align="center">📜 Dungeon Clearance Log — Featured Quests</h2>
 
 <p align="center">
@@ -125,7 +140,7 @@
 <tr>
 <td width="48%" align="center" valign="middle">
   <a href="https://sanairo.com" target="_blank">
-    <img src="assets/quest-sanairo.png" width="100%" alt="SANAIRO Self Growth Platform Screenshot" style="border-radius: 6px; border: 1px solid #334155;"/>
+    <img src="assets/quest-sanairo.png" width="100%" alt="SANAIRO Platform Screenshot" style="border-radius: 6px; border: 1px solid #334155;"/>
   </a>
 </td>
 <td width="52%" valign="top">
@@ -170,28 +185,39 @@ An automated computer vision attendance system designed to eliminate manual roll
 
 <br/>
 
-<!-- QUEST 03: PARKBAY & GUILD ACHIEVEMENTS -->
+<!-- QUEST 03: PARKBAY -->
 <table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-#### 🚗 `QUEST 03` • ParkBay (Smart Parking Web App)
+### 🚗 `QUEST 03` • ParkBay (Smart Parking Web Application)
 `STATUS: COMPLETED ARCHITECTURE`
 
-Smart parking management application offering real-time spot reservations, parking slot occupancy tracking, and administrative controls to relieve urban parking bottlenecks.
+Smart parking management web application offering real-time spot reservations, parking slot occupancy tracking, and administrative controls to relieve urban parking bottlenecks.
 
-- **Stack**: `JavaScript` • `Node.js` • `MySQL` • `HTML5` • `CSS3`
-- **Codebase**: Available on [`github.com/Hey-Pankaj`](https://github.com/Hey-Pankaj)
+- **Scope**: Interactive parking lot visualizer, dynamic slot allocation, role-based admin navigation, and reservation audit logs.
+- **Technologies**: `JavaScript` • `Node.js` • `MySQL` • `HTML5` • `CSS3`
+- **Repository**: [`github.com/Hey-Pankaj/parkbay`](https://github.com/Hey-Pankaj/parkbay) *(Verified source repository)*
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-#### 🏆 Guild Milestones & Development Records
-`STATUS: LOGGED`
+<!-- ADDITIONAL REPOSITORIES ACCORDION / SUMMARY -->
+<table align="center" width="100%">
+<tr>
+<td>
 
-- 🏰 **Hackathon Raids**: Competed in intensive collaborative hackathons, ideating and prototyping functional solutions under strict time limits.
-- 🎓 **Engineering Rigor**: Maintained dedicated coursework in Computer Engineering with focus on Software Systems and Applied Algorithms.
-- 🚀 **Shipped Production Software**: Successfully authored and deployed live web platforms accessible to real users.
+#### 📂 Additional Cleared Dungeons & Code Repositories
+- 🌿 [**Dustbin Overflow Detector**](https://github.com/Hey-Pankaj/DUSTBIN-OVERFLOW-DETECTOR-): Hardware & IoT waste-level monitoring system with automated overflow alerts for smart sanitation.
+- ⚡ [**DSA-CODES**](https://github.com/Hey-Pankaj/DSA-CODES): Problem-solving repository featuring data structure and algorithmic implementations in C++ and Python.
+- 🌐 [**WEB-DEVELOPMENT-CODES**](https://github.com/Hey-Pankaj/WEB-DEVELOPMENT-CODES): Collection of full-stack prototypes, experimental UI components, and API integration scripts.
+
+<p align="center">
+  <a href="https://github.com/Hey-Pankaj?tab=repositories" target="_blank">
+    <b>👉 Explore All Repositories on GitHub &rarr;</b>
+  </a>
+</p>
 
 </td>
 </tr>
@@ -199,7 +225,7 @@ Smart parking management application offering real-time spot reservations, parki
 
 ---
 
-<!-- SECTION 4: SKILL AWAKENING TREE (AUTHENTIC LEARNING STAGES) -->
+<!-- SECTION 5: SKILL AWAKENING TREE (AUTHENTIC LEARNING STAGES) -->
 <h2 align="center">⚡ Technical Arsenal & Learning Stages</h2>
 
 <table align="center" width="100%">
@@ -253,7 +279,7 @@ Smart parking management application offering real-time spot reservations, parki
 
 ---
 
-<!-- SECTION 5: THE SHADOW ARMY (METAPHORICAL DEVELOPER COMPANIONS) -->
+<!-- SECTION 6: THE SHADOW ARMY (METAPHORICAL DEVELOPER COMPANIONS) -->
 <h2 align="center">👥 The Shadow Army — Developer Ecosystem</h2>
 
 <p align="center">
@@ -269,7 +295,7 @@ Smart parking management application offering real-time spot reservations, parki
     <b>Backend Engineering</b>
   </div>
   <p>
-    Disciplined, unwavering, and precise. Executes heavy-duty server architectures, robust REST APIs, clean database queries, and system data flows.
+    Disciplined, unwavering, and precise. Executes heavy-duty server architectures, reliable REST APIs, clean database queries, and system data flows.
   </p>
 </td>
 <td width="33%" valign="top">
@@ -313,7 +339,7 @@ Smart parking management application offering real-time spot reservations, parki
 
 ---
 
-<!-- SECTION 6: HUNTER ANALYTICS (ELEGANT & RESTRAINED) -->
+<!-- SECTION 7: HUNTER PROGRESSION (RESTRAINED ANALYTICS) -->
 <h2 align="center">📈 Hunter Progression & Guild Activity</h2>
 
 <p align="center">
@@ -328,17 +354,19 @@ Smart parking management application offering real-time spot reservations, parki
 
 ---
 
-<!-- SECTION 7: MONARCH'S FINAL DIRECTIVE -->
+<!-- SECTION 8: COLLABORATION & MONARCH'S CLOSING DIRECTIVE -->
 <div align="center">
 
 <p align="center">
   <img src="assets/monarch-gate.jpg" width="100%" alt="Sung Jin-Woo at the Dimensional Gate" style="max-width: 860px; border-radius: 8px;"/>
 </p>
 
-`[SYSTEM DIRECTIVE • SESSION CLOSE]`
-<h3><em>"Even in the darkest shadows, I continue to level up."</em></h3>
+<h2>🤝 Have an interesting idea? Let's build something meaningful.</h2>
 
-# 👑 ARISE.
+<p align="center">
+  Whether you want to discuss full-stack software, collaborate on an applied AI project, talk physics,<br/>
+  or build something impactful together — my channels are always open.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj0536/" target="_blank">
@@ -357,6 +385,13 @@ Smart parking management application offering real-time spot reservations, parki
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Email"/>
   </a>
 </p>
+
+<br/>
+
+`[SYSTEM DIRECTIVE • SESSION CLOSE]`
+<h3><em>"Even in the darkest shadows, I continue to level up."</em></h3>
+
+# 👑 ARISE.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:3b0764,100:080808&height=90&section=footer" width="100%" alt="Footer Wave"/>
