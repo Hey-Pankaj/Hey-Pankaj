@@ -188,15 +188,20 @@ An automated computer vision attendance system designed to eliminate manual roll
 <!-- QUEST 03: PARKBAY -->
 <table align="center" width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="48%" align="center" valign="middle">
+  <a href="https://github.com/Hey-Pankaj/parkbay" target="_blank">
+    <img src="assets/quest-parkbay.jpg" width="100%" alt="ParkBay Automated Parking and Vision IoT Dashboard" style="border-radius: 6px; border: 1px solid #334155;"/>
+  </a>
+</td>
+<td width="52%" valign="top">
 
-### 🚗 `QUEST 03` • ParkBay (Smart Parking Web Application)
-`STATUS: COMPLETED ARCHITECTURE`
+### 🚗 `QUEST 03` • ParkBay (Automated Parking & Vision IoT)
+`STATUS: COMPLETED ARCHITECTURE • VISION IOT`
 
-Smart parking management web application offering real-time spot reservations, parking slot occupancy tracking, and administrative controls to relieve urban parking bottlenecks.
+An intelligent urban parking management system combining computer vision surveillance with automated slot booking. Employs real-time bay detection matrices and overhead camera tracking to monitor parking occupancy and streamline slot allocation.
 
-- **Scope**: Interactive parking lot visualizer, dynamic slot allocation, role-based admin navigation, and reservation audit logs.
-- **Technologies**: `JavaScript` • `Node.js` • `MySQL` • `HTML5` • `CSS3`
+- **Scope**: Real-time camera telemetry, automated bay occupancy detection, live slot booking, and driver analytics.
+- **Technologies**: `JavaScript` • `Node.js` • `Python` • `MySQL` • `HTML5` • `CSS3`
 - **Repository**: [`github.com/Hey-Pankaj/parkbay`](https://github.com/Hey-Pankaj/parkbay) *(Verified source repository)*
 
 </td>
