@@ -1,25 +1,32 @@
 <!-- ========================================================================= -->
-<!-- SOLO LEVELING • SHADOW MONARCH GITHUB PROFILE README                      -->
+<!-- CLASSIFIED HUNTER ASSOCIATION DOSSIER • PANKAJ RANA                      -->
 <!-- ========================================================================= -->
 
 <div align="center">
 
-<!-- CINEMATIC HERO SECTION -->
+<!-- CINEMATIC HERO BANNER -->
 <p align="center">
-  <img src="assets/hero-jinwoo.jpg" width="100%" alt="Sung Jin-Woo — The Shadow Monarch" style="max-width: 880px; border-radius: 10px;"/>
+  <img src="assets/hero-jinwoo.jpg" width="100%" alt="Sung Jin-Woo — The Shadow Monarch" style="max-width: 860px; border-radius: 8px;"/>
 </p>
+
+`HUNTER ASSOCIATION DATABASE • CLASSIFIED DOSSIER #PR-0536`
 
 # ⚡ PANKAJ RANA
 ### 🗡️ THE SHADOW DEVELOPER
-**Computer Engineering Student • Full-Stack Developer • Continuous Leveling**
+**Computer Engineering Student • Full-Stack Developer • Applied AI Explorer**
 
 <p align="center">
   <em>"From E-Rank to Shadow Monarch. Every project is a quest. Every bug is a dungeon."</em>
 </p>
 
+<!-- RESTYLED MINIMALIST HUNTER CHANNELS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj0536/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hey-Pankaj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://x.com/Hey_P4JR2A" target="_blank">
@@ -27,11 +34,7 @@
   </a>
   &nbsp;
   <a href="mailto:pankajrana2754@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hey-Pankaj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Email"/>
   </a>
 </p>
 
@@ -39,8 +42,8 @@
 
 ---
 
-<!-- SECTION 1: SYSTEM STATUS WINDOW (MOBILE-FRIENDLY & AUTHENTIC) -->
-<h2 align="center">📊 System Status Window</h2>
+<!-- SECTION 1: SYSTEM HUD INTERFACE (CLEAN, AUTHENTIC & MOBILE-FRIENDLY) -->
+<h2 align="center">📊 System Status HUD</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -48,25 +51,22 @@
 
 ```yaml
 ╔══════════════════════════════════════════════════════════════╗
-║             [ SYSTEM STATUS WINDOW • ONLINE ]                ║
+║               [ SYSTEM STATUS HUD • ONLINE ]                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║  HUNTER     : Pankaj Rana                                    ║
-║  CLASS      : Computer Engineering Student / Developer       ║
-║  TITLE      : The Shadow Developer                           ║
-║  RANK       : Continuously Evolving                          ║
-║  AFFINITY   : Full-Stack Systems & Applied AI / ML           ║
+║  HUNTER IDENTIFIER : Pankaj Rana                             ║
+║  CLASSIFICATION    : Computer Engineering / Full-Stack Dev   ║
+║  DESIGNATION       : The Shadow Developer                    ║
+║  CURRENT STATUS    : Continuously Evolving (Daily Expansion) ║
+║  SPECIALIZATION    : Modern Web Systems & Computer Vision    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  [ HUNTER ECOSYSTEM ]                                        ║
-║  • Beru     : AI & Computer Vision Commander                 ║
-║  • Igris    : Backend Architecture Guardian                  ║
-║  • Iron     : Infrastructure & Developer Tools Titan         ║
-║  • Army     : Active Repositories & Experimental Builds      ║
+║  [ ACTIVE SHADOW ECOSYSTEM ]                                 ║
+║  • Beru            : AI & Computer Vision Pipelines          ║
+║  • Igris           : Backend Architecture & REST Services    ║
+║  • Iron            : Infrastructure, Tooling & Environments  ║
 ╠══════════════════════════════════════════════════════════════╣
-║  [ CURRENT OBJECTIVE ]                                       ║
-║  "Become a stronger engineer. Solve real-world problems."    ║
-║                                                              ║
-║  [ SYSTEM DIRECTIVE ]                                        ║
-║  "No shortcuts. Only consistent progression. ARISE."         ║
+║  [ CURRENT DIRECTIVE ]                                       ║
+║  "Become a stronger engineer. Build products that solve      ║
+║   real-world problems. No shortcuts. ARISE."                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -76,40 +76,36 @@
 
 ---
 
-<!-- SECTION 2: THE DOUBLE DUNGEON (DEVELOPER JOURNEY) -->
-<h2 align="center">🏛️ The Double Dungeon — The Developer Journey</h2>
-
-<p align="center">
-  <img src="assets/double-dungeon.jpg" width="100%" alt="The Double Dungeon — Developer Journey" style="max-width: 850px; border-radius: 8px;"/>
-</p>
+<!-- SECTION 2: THE DEVELOPER JOURNEY (FACTUAL VISUAL PROGRESSION) -->
+<h2 align="center">🏛️ The Progression Path — From Novice to Builder</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
   <div align="center">
-    <h4>🚪 01. The Gate</h4>
-    <p><b>Where I Started</b></p>
+    <h4>🚪 PHASE 01 • THE GATE</h4>
+    <small><b>Engineering Foundations</b></small>
   </div>
   <p>
-    Stepped into Computer Engineering as an E-Rank novice. Started with raw C/C++, terminal commands, algorithmic foundations, and computational logic with zero shortcuts.
+    Entered Computer Engineering with zero shortcuts. Mastered procedural logic, data structures, and computational foundations in <b>C</b> and <b>C++</b>.
   </p>
 </td>
 <td width="33%" valign="top">
   <div align="center">
-    <h4>⚔️ 02. The Trial</h4>
-    <p><b>What I Learned</b></p>
+    <h4>⚔️ PHASE 02 • THE RAID</h4>
+    <small><b>Full-Stack Architecture</b></small>
   </div>
   <p>
-    Confronted grueling compiler errors, broken states, and architectural bottlenecks. Learned that true engineering strength is forged through discipline and relentless debugging.
+    Transitioned into full-stack development. Built resilient web architectures, responsive frontends with <b>React</b>, and scalable backends using <b>Node.js</b> and <b>MySQL/MongoDB</b>.
   </p>
 </td>
 <td width="33%" valign="top">
   <div align="center">
-    <h4>👑 03. The Awakening</h4>
-    <p><b>What I Am Becoming</b></p>
+    <h4>👑 PHASE 03 • THE AWAKENING</h4>
+    <small><b>Applied Systems & Vision</b></small>
   </div>
   <p>
-    Transitioned from learner to builder. Now architecting full-stack web applications, exploring computer vision pipelines, and building products with real-world impact.
+    Actively engineering production web products (<b>SANAIRO</b>) and intelligent automated computer vision pipelines (<b>SAMS</b>) to solve real problems.
   </p>
 </td>
 </tr>
@@ -117,25 +113,85 @@
 
 ---
 
-<!-- SECTION 3: DAILY QUEST -->
-<h2 align="center">📜 Daily Repeatable Quest</h2>
+<!-- SECTION 3: DUNGEON CLEARANCE LOG (PRIMARY PROJECT EVIDENCE) -->
+<h2 align="center">📜 Dungeon Clearance Log — Featured Quests</h2>
 
+<p align="center">
+  <i>"Verified projects and architectures engineered to solve real-world problems."</i>
+</p>
+
+<!-- QUEST 01: SANAIRO -->
 <table align="center" width="100%">
 <tr>
-<td width="28%" align="center" valign="middle">
-  <img src="assets/secret-quest.jpg" width="160px" alt="Daily Quest System Notification" style="border-radius: 8px;"/>
+<td width="48%" align="center" valign="middle">
+  <a href="https://sanairo.com" target="_blank">
+    <img src="assets/quest-sanairo.png" width="100%" alt="SANAIRO Self Growth Platform Screenshot" style="border-radius: 6px; border: 1px solid #334155;"/>
+  </a>
 </td>
-<td width="72%" valign="top">
+<td width="52%" valign="top">
 
-### `[SYSTEM NOTIFICATION]` • `COURAGE OF THE WEAK`
-**Directive**: *Consistent daily execution to elevate core engineering stats.*
+### 🌟 `QUEST 01` • SANAIRO (Self-Growth Social Platform)
+`STATUS: ACTIVE RAID • IN PRODUCTION`
 
-- [x] **Algorithmic Strength**: Daily problem solving across data structures and algorithms.
-- [x] **Product Engineering**: Shipping active features and optimizing UX for **SANAIRO**.
-- [x] **Applied Intelligence**: Deepening computer vision and recognition pipelines (**SAMS**).
-- [x] **Architecture Discipline**: Refactoring code for readability, scalability, and performance.
+A mindful social web platform engineered to combat doom-scrolling. SANAIRO provides an intentional digital sanctuary where users cultivate daily habits, log personal reflections, and share accountable milestones with a supportive community.
 
-*Daily Reward: Continuous EXP accumulation and unshakeable engineering stamina.*
+- **Scope**: User authentication, habit tracking streaks, reflective journal feeds, and community circles.
+- **Technologies**: `React` • `Next.js` • `Node.js` • `MongoDB`
+- **Deployment**: [**sanairo.com**](https://sanairo.com) *(Active production build; codebase in private development)*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- QUEST 02: SAMS -->
+<table align="center" width="100%">
+<tr>
+<td width="48%" align="center" valign="middle">
+  <a href="https://github.com/Hey-Pankaj/sams-PL" target="_blank">
+    <img src="assets/quest-sams.jpg" width="100%" alt="SAMS Attendance System Screenshot" style="border-radius: 6px; border: 1px solid #334155;"/>
+  </a>
+</td>
+<td width="52%" valign="top">
+
+### ⚔️ `QUEST 02` • SAMS (Smart Attendance Management System)
+`STATUS: VERIFIED PROTOTYPE • ACADEMIC BUILD`
+
+An automated computer vision attendance system designed to eliminate manual roll-calls and proxy check-ins. Detects faces from real-time webcam streams, extracts deep feature embeddings, and verifies student/employee attendance against a central database.
+
+- **Scope**: Real-time multi-face detection, feature embedding matching, automated database logging, and CSV exports.
+- **Technologies**: `Python` • `OpenCV` • `DeepFace` • `Streamlit`
+- **Repository**: [`github.com/Hey-Pankaj/sams-PL`](https://github.com/Hey-Pankaj/sams-PL) *(Verified source repository)*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- QUEST 03: PARKBAY & GUILD ACHIEVEMENTS -->
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🚗 `QUEST 03` • ParkBay (Smart Parking Web App)
+`STATUS: COMPLETED ARCHITECTURE`
+
+Smart parking management application offering real-time spot reservations, parking slot occupancy tracking, and administrative controls to relieve urban parking bottlenecks.
+
+- **Stack**: `JavaScript` • `Node.js` • `MySQL` • `HTML5` • `CSS3`
+- **Codebase**: Available on [`github.com/Hey-Pankaj`](https://github.com/Hey-Pankaj)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏆 Guild Milestones & Development Records
+`STATUS: LOGGED`
+
+- 🏰 **Hackathon Raids**: Competed in intensive collaborative hackathons, ideating and prototyping functional solutions under strict time limits.
+- 🎓 **Engineering Rigor**: Maintained dedicated coursework in Computer Engineering with focus on Software Systems and Applied Algorithms.
+- 🚀 **Shipped Production Software**: Successfully authored and deployed live web platforms accessible to real users.
 
 </td>
 </tr>
@@ -144,11 +200,7 @@
 ---
 
 <!-- SECTION 4: SKILL AWAKENING TREE (AUTHENTIC LEARNING STAGES) -->
-<h2 align="center">⚡ Skill Awakening Tree</h2>
-
-<p align="center">
-  <i>"Skills mapped by authentic stages of mastery rather than arbitrary numbers."</i>
-</p>
+<h2 align="center">⚡ Technical Arsenal & Learning Stages</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -201,11 +253,11 @@
 
 ---
 
-<!-- SECTION 5: THE SHADOW ARMY (DEVELOPER ECOSYSTEM) -->
-<h2 align="center">👥 The Shadow Army — My Developer Ecosystem</h2>
+<!-- SECTION 5: THE SHADOW ARMY (METAPHORICAL DEVELOPER COMPANIONS) -->
+<h2 align="center">👥 The Shadow Army — Developer Ecosystem</h2>
 
 <p align="center">
-  <i>"Creative metaphors mapping the Monarch's loyal shadow commanders to specialized engineering domains."</i>
+  <i>"Fictional companion metaphors connecting the Monarch's commanders to specialized software domains."</i>
 </p>
 
 <table align="center" width="100%">
@@ -217,7 +269,7 @@
     <b>Backend Engineering</b>
   </div>
   <p>
-    Disciplined, unwavering, and precise. Executes heavy-duty server architectures, reliable REST APIs, database queries, and system data flows.
+    Disciplined, unwavering, and precise. Executes heavy-duty server architectures, robust REST APIs, clean database queries, and system data flows.
   </p>
 </td>
 <td width="33%" valign="top">
@@ -252,7 +304,7 @@
 > **👑 Sung Jin-Woo (Pankaj):** *"ARISE. Fix the bug."*  
 
 <div align="right">
-  <sub><i>*Creative metaphors for continuous testing, debugging, and domain exploration.*</i></sub>
+  <sub><i>*Metaphors representing continuous unit testing, debugging, and engineering rigor.*</i></sub>
 </div>
 
 </td>
@@ -261,89 +313,7 @@
 
 ---
 
-<!-- SECTION 6: DUNGEON CLEARANCE LOG (FEATURED PROJECTS & MILESTONES) -->
-<h2 align="center">📜 Dungeon Clearance Log — Cleared Raids</h2>
-
-<!-- QUEST 01: SAMS -->
-<table align="center" width="100%">
-<tr>
-<td width="42%" align="center" valign="middle">
-  <a href="https://github.com/Hey-Pankaj/sams-PL" target="_blank">
-    <img src="assets/quest-sams.jpg" width="100%" alt="SAMS Attendance System Screenshot" style="border-radius: 6px;"/>
-  </a>
-</td>
-<td width="58%" valign="top">
-
-### ⚔️ `RAID 01` • SAMS (Smart Attendance Management System)
-`RANK S QUEST` • `STATUS: COMPLETED / VERIFIED`
-
-An automated computer vision attendance system designed to eliminate manual roll-calls and proxy check-ins. Detects faces from live video streams, extracts facial feature embeddings, and logs verified attendance into a central database in real time.
-
-- **Stack**: `Python` • `OpenCV` • `DeepFace` • `Streamlit`
-- **Key Features**: Live webcam face matching, multi-face verification, and exportable CSV attendance reports.
-- **Repository**: [`github.com/Hey-Pankaj/sams-PL`](https://github.com/Hey-Pankaj/sams-PL) *(Source repository)*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- QUEST 02: SANAIRO -->
-<table align="center" width="100%">
-<tr>
-<td width="42%" align="center" valign="middle">
-  <a href="https://sanairo.com" target="_blank">
-    <img src="assets/quest-sanairo.png" width="100%" alt="SANAIRO Platform Screenshot" style="border-radius: 6px;"/>
-  </a>
-</td>
-<td width="58%" valign="top">
-
-### 🌟 `RAID 02` • SANAIRO (Self-Growth Social Platform)
-`RANK S QUEST` • `STATUS: ACTIVE RAID / IN PRODUCTION`
-
-A productive web platform engineered to combat doom-scrolling by cultivating meaningful daily habits, goal accountability, and mindful reflection within a supportive community of creators and builders.
-
-- **Stack**: `React` • `Next.js` • `Node.js` • `MongoDB`
-- **Key Features**: Habit streaks, daily accomplishment journaling, distraction-free feed, and creator circles.
-- **Live Platform**: [**sanairo.com**](https://sanairo.com) *(Active production build; codebase in private development)*
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- QUEST 03: PARKBAY & MILESTONES -->
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🚗 `RAID 03` • ParkBay (Smart Parking Web App)
-`RANK A QUEST` • `STATUS: CLEARED`
-
-Smart parking management application offering real-time spot reservations, parking slot occupancy tracking, and administrative controls to relieve urban parking bottlenecks.
-
-- **Stack**: `JavaScript` • `Node.js` • `MySQL` • `HTML5/CSS3`
-- **Codebase**: Available on [`github.com/Hey-Pankaj`](https://github.com/Hey-Pankaj)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🏆 Guild Milestones & Cleared Events
-`ACHIEVEMENT LOG` • `STATUS: LOGGED`
-
-- 🏰 **Hackathon Raid**: Competed in intensive collaborative hackathons, ideating and prototyping functional solutions under strict time limits.
-- 🎓 **Engineering Milestones**: Maintained rigorous coursework in Computer Engineering with focus on Software Engineering & Systems.
-- 🚀 **Production Deployment**: Successfully published and deployed live consumer web services.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- SECTION 7: HUNTER PROGRESSION (RESTRAINED, SLEEK STATS) -->
+<!-- SECTION 6: HUNTER ANALYTICS (ELEGANT & RESTRAINED) -->
 <h2 align="center">📈 Hunter Progression & Guild Activity</h2>
 
 <p align="center">
@@ -358,20 +328,25 @@ Smart parking management application offering real-time spot reservations, parki
 
 ---
 
-<!-- SECTION 8: MONARCH'S FINAL MESSAGE -->
+<!-- SECTION 7: MONARCH'S FINAL DIRECTIVE -->
 <div align="center">
 
 <p align="center">
-  <img src="assets/monarch-gate.jpg" width="100%" alt="Sung Jin-Woo at the Dimensional Gate" style="max-width: 850px; border-radius: 8px;"/>
+  <img src="assets/monarch-gate.jpg" width="100%" alt="Sung Jin-Woo at the Dimensional Gate" style="max-width: 860px; border-radius: 8px;"/>
 </p>
 
+`[SYSTEM DIRECTIVE • SESSION CLOSE]`
 <h3><em>"Even in the darkest shadows, I continue to level up."</em></h3>
 
-# 👑 ARISE!
+# 👑 ARISE.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pankaj0536/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080808" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Hey-Pankaj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://x.com/Hey_P4JR2A" target="_blank">
@@ -381,14 +356,10 @@ Smart parking management application offering real-time spot reservations, parki
   <a href="mailto:pankajrana2754@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080808" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Hey-Pankaj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=080808" alt="GitHub"/>
-  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:3b0764,100:080808&height=100&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:3b0764,100:080808&height=90&section=footer" width="100%" alt="Footer Wave"/>
 </p>
 
 </div>
