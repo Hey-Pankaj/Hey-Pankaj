@@ -45,34 +45,15 @@
 <!-- SECTION 1: SYSTEM STATUS HUD -->
 <h2 align="center">📊 System Status HUD</h2>
 
-<table align="center" width="100%">
-<tr>
-<td>
-
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║               [ SYSTEM STATUS HUD • ONLINE ]                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  HUNTER IDENTIFIER : Pankaj Rana                             ║
-║  AFFILIATION       : Computer Engineering Student            ║
-║  CORE ROLE         : Full-Stack Developer & Builder          ║
-║  ADDITIONAL ROLE   : Physics Educator (Class 11 & 12)        ║
-║  SPECIALIZATION    : Modern Web Systems & Computer Vision    ║
-║  CURRENT STATUS    : Continuously Evolving (Daily Expansion) ║
-╠══════════════════════════════════════════════════════════════╣
-║  [ ACTIVE SHADOW ECOSYSTEM ]                                 ║
-║  • Beru            : AI & Computer Vision Pipelines          ║
-║  • Igris           : Backend Architecture & REST Services    ║
-║  • Iron            : Infrastructure, Tooling & Environments  ║
-╠══════════════════════════════════════════════════════════════╣
-║  [ SYSTEM DIRECTIVE ]                                        ║
-║  "No shortcuts. Only consistent progression. ARISE."         ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://solo-leveling-live-hunter.vercel.app">
+    <img
+      src="https://solo-leveling-live-hunter.vercel.app/api/hunter"
+      alt="Pankaj Rana — Live Solo Leveling Hunter Status"
+      width="100%"
+    />
+  </a>
+</p>
 
 ---
 
