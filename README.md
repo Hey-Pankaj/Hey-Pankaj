@@ -4,20 +4,35 @@
 
 <div align="center">
 
-<!-- CINEMATIC HERO BANNER -->
+<!-- HERO SYSTEM BANNER -->
 <p align="center">
-  <img src="assets/hero-jinwoo.jpg" width="100%" alt="Sung Jin-Woo — The Shadow Monarch" style="max-width: 860px; border-radius: 8px;"/>
+  <img src="assets/hero-system.jpg" width="100%" alt="System Interface — Sung Jin-Woo" style="max-width: 860px; border-radius: 8px;"/>
 </p>
 
-`HUNTER ASSOCIATION DATABASE • CLASSIFIED DOSSIER #PR-0536`
+<!-- 01. MINIMAL SYSTEM INTERFACE HERO -->
+<table align="center" width="100%">
+<tr>
+<td>
 
-# ⚡ PANKAJ RANA
-### 🗡️ THE SHADOW DEVELOPER
-**Computer Engineering Student • Builder of SANAIRO • Physics Educator**
+```yaml
+╔══════════════════════════════════════════════════════════════╗
+║               [ SYSTEM INTERFACE • INITIALIZED ]             ║
+╠══════════════════════════════════════════════════════════════╣
+║  PLAYER       : PANKAJ RANA                                  ║
+║  CLASS        : Developer / Builder / Explorer               ║
+║  CURRENT RANK : Developer                                    ║
+║  STATUS       : Continuously Leveling (Daily Progression)    ║
+╠══════════════════════════════════════════════════════════════╣
+║  [ SYSTEM INTRODUCTION ]                                     ║
+║  "A developer navigating the software realm. Every codebase  ║
+║   is an uncharted dungeon, every bug a battle to conquer,    ║
+║   and every shipped project permanent EXP gained. ARISE."    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <em>"From E-Rank to Shadow Monarch. Every project is a quest. Every bug is a dungeon."</em>
-</p>
+</td>
+</tr>
+</table>
 
 <!-- ACTION CHANNELS -->
 <p align="center">
