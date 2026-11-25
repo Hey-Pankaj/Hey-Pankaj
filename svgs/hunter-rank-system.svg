@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="224" viewBox="0 0 860 224" role="img" aria-labelledby="rankTitle rankDesc">
+  <title id="rankTitle">Hunter Association Rank Classification System</title>
+  <desc id="rankDesc">Realistic Solo Leveling inspired engineering rank progression from foundational syntax to production architecture.</desc>
+  <defs>
+    <linearGradient id="rankBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050b18"/>
+      <stop offset="50%" stop-color="#080a18"/>
+      <stop offset="100%" stop-color="#070512"/>
+    </linearGradient>
+    <linearGradient id="topBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00D4FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00D4FF" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#A855F7" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="cyanBloom" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Deep Void Base -->
+  <rect width="860" height="224" fill="#080808"/>
+  <rect x="8" y="8" width="844" height="208" fill="url(#rankBg)" stroke="#00B4FF" stroke-width="1.2" stroke-opacity="0.55"/>
+  <rect x="14" y="14" width="832" height="196" fill="none" stroke="#38BDF8" stroke-width="0.6" stroke-opacity="0.22"/>
+
+  <!-- Metallic Corner Brackets -->
+  <path d="M 8 28 V 8 H 28" fill="none" stroke="#00E5FF" stroke-width="2.2" filter="url(#cyanBloom)"/>
+  <path d="M 832 8 H 852 V 28" fill="none" stroke="#00E5FF" stroke-width="2.2" filter="url(#cyanBloom)"/>
+  <path d="M 8 196 V 216 H 28" fill="none" stroke="#A855F7" stroke-width="2.2"/>
+  <path d="M 832 216 H 852 V 196" fill="none" stroke="#A855F7" stroke-width="2.2"/>
+
+  <!-- Header -->
+  <text x="26" y="34" font-family="'Consolas', 'Courier New', monospace" font-size="11.5" font-weight="700" fill="#38BDF8" letter-spacing="1.8">[ HUNTER ASSOCIATION · RANK CLASSIFICATION SYSTEM ]</text>
+  <text x="834" y="34" text-anchor="end" font-family="'Consolas', 'Courier New', monospace" font-size="10.5" fill="#A78BFA" letter-spacing="1.2">REAL-TIME ENGINEERING BENCHMARK</text>
+  <line x1="18" y1="45" x2="842" y2="45" stroke="url(#topBar)" stroke-width="1"/>
+
+  <!-- E-RANK -->
+  <rect x="24" y="60" width="127" height="114" fill="#0b111e" stroke="#475569" stroke-width="1"/>
+  <text x="34" y="80" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#94A3B8">E-RANK</text>
+  <text x="34" y="96" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" fill="#10B981">[ CLEARED ]</text>
+  <line x1="34" y1="104" x2="141" y2="104" stroke="#1E293B" stroke-width="1"/>
+  <text x="34" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#E2E8F0">Core Syntax</text>
+  <text x="34" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#94A3B8">C, C++, Java,</text>
+  <text x="34" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#94A3B8">Logic &amp; Git</text>
+
+  <!-- D-RANK -->
+  <rect x="161" y="60" width="127" height="114" fill="#0b111e" stroke="#475569" stroke-width="1"/>
+  <text x="171" y="80" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#94A3B8">D-RANK</text>
+  <text x="171" y="96" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" fill="#10B981">[ CLEARED ]</text>
+  <line x1="171" y1="104" x2="278" y2="104" stroke="#1E293B" stroke-width="1"/>
+  <text x="171" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#E2E8F0">Algorithms</text>
+  <text x="171" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#94A3B8">DSA, Trees,</text>
+  <text x="171" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#94A3B8">Web Foundations</text>
+
+  <!-- C-RANK -->
+  <rect x="298" y="60" width="127" height="114" fill="#091629" stroke="#0284C7" stroke-width="1.2"/>
+  <text x="308" y="80" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#7DD3FC">C-RANK</text>
+  <text x="308" y="96" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" fill="#10B981">[ CLEARED ]</text>
+  <line x1="308" y1="104" x2="415" y2="104" stroke="#0C4A6E" stroke-width="1"/>
+  <text x="308" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Full-Stack UI</text>
+  <text x="308" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#BAE6FD">React, Node.js,</text>
+  <text x="308" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#BAE6FD">SQL &amp; MongoDB</text>
+
+  <!-- B-RANK (ACTIVE CURRENT EVALUATION) -->
+  <rect x="435" y="57" width="127" height="120" fill="#061b34" stroke="#00E5FF" stroke-width="1.8" filter="url(#cyanBloom)"/>
+  <rect x="435" y="57" width="127" height="3" fill="#00E5FF"/>
+  <text x="445" y="79" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#00E5FF">B-RANK</text>
+  <text x="445" y="95" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#E0F7FF">[ CURRENT ]</text>
+  <line x1="445" y1="103" x2="552" y2="103" stroke="#00B4FF" stroke-width="0.9" stroke-opacity="0.5"/>
+  <text x="445" y="122" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Applied Vision</text>
+  <text x="445" y="139" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#E0F2FE">SAMS CV Auth &amp;</text>
+  <text x="445" y="154" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#E0F2FE">ParkBay IoT</text>
+
+  <!-- A-RANK (IN RAID) -->
+  <rect x="572" y="60" width="127" height="114" fill="#130b29" stroke="#A855F7" stroke-width="1.3"/>
+  <text x="582" y="80" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#C084FC">A-RANK</text>
+  <text x="582" y="96" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" font-weight="700" fill="#38BDF8">[ IN RAID ]</text>
+  <line x1="582" y1="104" x2="689" y2="104" stroke="#4C1D95" stroke-width="1"/>
+  <text x="582" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#FFFFFF">Live Products</text>
+  <text x="582" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#DDD6FE">SANAIRO Prod</text>
+  <text x="582" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#DDD6FE">&amp; Next.js Scale</text>
+
+  <!-- S-RANK (TARGET) -->
+  <rect x="709" y="60" width="127" height="114" fill="#090a12" stroke="#475569" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="719" y="80" font-family="'Consolas', 'Courier New', monospace" font-size="14" font-weight="700" fill="#64748B">S-RANK</text>
+  <text x="719" y="96" font-family="'Consolas', 'Courier New', monospace" font-size="9.5" fill="#64748B">[ TARGET ]</text>
+  <line x1="719" y1="104" x2="826" y2="104" stroke="#1E293B" stroke-width="1"/>
+  <text x="719" y="123" font-family="'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" fill="#94A3B8">Distributed AI</text>
+  <text x="719" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#64748B">Large-Scale</text>
+  <text x="719" y="155" font-family="'Segoe UI', Arial, sans-serif" font-size="10.5" fill="#64748B">Architectures</text>
+
+  <!-- Bottom Status Sync Strip -->
+  <text x="26" y="199" font-family="'Consolas', 'Courier New', monospace" font-size="10.5" fill="#64748B">RANK VERIFICATION : MEASURED BY SHIPPED CODE, WORKING DEPLOYMENTS &amp; CONTINUOUS COMMITS</text>
+  <text x="834" y="199" text-anchor="end" font-family="'Consolas', 'Courier New', monospace" font-size="10.5" font-weight="700" fill="#38BDF8">PROGRESSION: ACTIVE</text>
+</svg>
+

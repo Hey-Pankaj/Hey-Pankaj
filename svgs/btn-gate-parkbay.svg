@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="36" viewBox="0 0 256 36" role="img" aria-label="Inspect Gate parkbay">
+  <rect width="256" height="36" fill="#080808"/>
+  <rect x="2" y="2" width="252" height="32" fill="#051326" stroke="#00B4FF" stroke-width="1.2"/>
+  <path d="M 2 10 V 2 H 12 M 244 2 H 254 V 10 M 2 26 V 34 H 12 M 244 34 H 254 V 26" fill="none" stroke="#38BDF8" stroke-width="2"/>
+  <polygon points="18,18 23,13 28,18 23,23" fill="#38BDF8"/>
+  <text x="38" y="22" font-family="'Consolas', 'Courier New', monospace" font-size="11.5" font-weight="700" fill="#E0F7FF" letter-spacing="1">INSPECT REPO: parkbay</text>
+</svg>
+

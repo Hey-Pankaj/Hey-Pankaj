@@ -39,13 +39,13 @@
   <rect x="6" y="6" width="848" height="320" rx="6" fill="url(#bgGrad)" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.38"/>
 
   <!-- Header Strip -->
-  <text x="26" y="31" font-family="'Consolas', 'Courier New', monospace" font-size="11.5" font-weight="700" fill="#38BDF8" letter-spacing="1.8">[ ENGINEERING WORKFLOW // IDEA TO PRODUCTION ]</text>
+  <text x="26" y="31" font-family="'Consolas', 'Courier New', monospace" font-size="11.5" font-weight="700" fill="#38BDF8" letter-spacing="1.8">[ ENGINEERING WORKFLOW · IDEA TO PRODUCTION ]</text>
   <text x="834" y="31" text-anchor="end" font-family="'Consolas', 'Courier New', monospace" font-size="10.5" fill="#A78BFA" letter-spacing="1.2">ITERATIVE BUILD &amp; DEBUG LOOP</text>
   <line x1="18" y1="42" x2="842" y2="42" stroke="url(#hdrLine)" stroke-width="1"/>
 
   <!-- NODE 1: FRAME PROBLEM -->
   <rect x="24" y="64" width="162" height="70" rx="5" fill="#0d0b1a" stroke="#7C3AED" stroke-width="1.2"/>
-  <text x="36" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#A855F7">01 // ANALYZE</text>
+  <text x="36" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#A855F7">01 · ANALYZE</text>
   <text x="36" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Frame Problem</text>
   <text x="36" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#94A3B8">First-principles scope</text>
 
@@ -54,7 +54,7 @@
 
   <!-- NODE 2: DESIGN & BUILD -->
   <rect x="212" y="64" width="162" height="70" rx="5" fill="#0b1122" stroke="#38BDF8" stroke-width="1.2"/>
-  <text x="224" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#38BDF8">02 // ARCHITECT</text>
+  <text x="224" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#38BDF8">02 · ARCHITECT</text>
   <text x="224" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Design &amp; Build</text>
   <text x="224" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#94A3B8">Schema, UI &amp; REST logic</text>
 
@@ -73,7 +73,7 @@
 
   <!-- NODE 3: SHIP & MONITOR -->
   <rect x="662" y="64" width="174" height="70" rx="5" fill="#081b1a" stroke="#10B981" stroke-width="1.3"/>
-  <text x="674" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#34D399">03 // DEPLOY</text>
+  <text x="674" y="83" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#34D399">03 · DEPLOY</text>
   <text x="674" y="102" font-family="'Segoe UI', Arial, sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">Ship &amp; Monitor</text>
   <text x="674" y="120" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#A7F3D0">Live build &amp; user metrics</text>
 
@@ -84,7 +84,7 @@
 
   <!-- DEBUG NODE: TRACE, DEBUG & REFACTOR -->
   <rect x="388" y="196" width="192" height="66" rx="5" fill="#180a1c" stroke="#FB7185" stroke-width="1.2"/>
-  <text x="402" y="215" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#FB7185">DEBUG LOOP // FIX</text>
+  <text x="402" y="215" font-family="'Consolas', 'Courier New', monospace" font-size="10" font-weight="700" fill="#FB7185">DEBUG LOOP · FIX</text>
   <text x="402" y="233" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">Trace &amp; Refactor</text>
   <text x="402" y="250" font-family="'Segoe UI', Arial, sans-serif" font-size="11" fill="#CBD5E1">Inspect logs &amp; patch root cause</text>
 
