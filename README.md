@@ -65,6 +65,12 @@
 </tr>
 </table>
 
+<h3 align="center">⚙️ Engineering Loop — From First Principles to Production</h3>
+
+<p align="center">
+  <img src="svgs/dev-workflow-flowchart.svg" width="100%" alt="Realistic Engineering Build & Debug Flowchart" style="max-width: 860px;"/>
+</p>
+
 <p align="center">
   <img src="svgs/shadow-divider.svg" width="100%" alt="" style="max-width: 860px;"/>
 </p>
@@ -167,6 +173,12 @@ Automated urban parking & vision IoT platform pairing overhead bay-detection sur
 </td>
 </tr>
 </table>
+
+<h3 align="center">🏗️ As-Built System Pipelines — Architecture Flow</h3>
+
+<p align="center">
+  <img src="svgs/system-architecture-flow.svg" width="100%" alt="Full-Stack and Computer Vision System Architecture Flows" style="max-width: 860px;"/>
+</p>
 
 <!-- ADDITIONAL REPOSITORIES VAULT -->
 <table align="center" width="100%">
