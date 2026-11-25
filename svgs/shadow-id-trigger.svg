@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="136" viewBox="0 0 860 136" role="img" aria-labelledby="trigTitle trigDesc">
+  <title id="trigTitle">Classified Shadow Coder ID — Click to Reveal</title>
+  <desc id="trigDesc">Interactive GitHub trigger banner. Clicking reveals Pankaj Rana's animated Solo Leveling Shadow Coder ID.</desc>
+  <defs>
+    <linearGradient id="trigBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050d1e"/>
+      <stop offset="50%" stop-color="#080c1f"/>
+      <stop offset="100%" stop-color="#0d071c"/>
+    </linearGradient>
+    <linearGradient id="trigEdge" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.85"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="trigSweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="trigGlow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="860" height="136" fill="#080808"/>
+  <rect x="8" y="8" width="844" height="120" fill="url(#trigBg)" stroke="url(#trigEdge)" stroke-width="1.3" stroke-opacity="0.72"/>
+  <rect x="13" y="13" width="834" height="110" fill="none" stroke="#38BDF8" stroke-width="0.6" stroke-opacity="0.25"/>
+
+  <!-- Subtle Horizontal Scanline -->
+  <rect x="14" y="14" width="180" height="108" fill="url(#trigSweep)">
+    <animate attributeName="x" values="-180;860" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner Targeting Brackets -->
+  <path d="M 8 26 V 8 H 28" fill="none" stroke="#00E5FF" stroke-width="2.4" filter="url(#trigGlow)"/>
+  <path d="M 832 8 H 852 V 26" fill="none" stroke="#A855F7" stroke-width="2.4" filter="url(#trigGlow)"/>
+  <path d="M 8 110 V 128 H 28" fill="none" stroke="#00E5FF" stroke-width="2.4" filter="url(#trigGlow)"/>
+  <path d="M 832 128 H 852 V 110" fill="none" stroke="#A855F7" stroke-width="2.4" filter="url(#trigGlow)"/>
+
+  <!-- Left Holographic Seal Emblem -->
+  <g transform="translate(68, 68)">
+    <circle cx="0" cy="0" r="32" fill="#030b1a" stroke="#00D4FF" stroke-width="1.2" stroke-opacity="0.6" stroke-dasharray="6 4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="23" fill="none" stroke="#A855F7" stroke-width="1" stroke-opacity="0.65" stroke-dasharray="4 3">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="0,-14 12,0 0,14 -12,0" fill="#061936" stroke="#00E5FF" stroke-width="1.6" filter="url(#trigGlow)"/>
+    <polygon points="0,-6 5,0 0,6 -5,0" fill="#E0F7FF">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+
+  <!-- Center Text -->
+  <text x="124" y="44" font-family="'Consolas', 'Courier New', monospace" font-size="11" font-weight="700" fill="#00E5FF" letter-spacing="2" filter="url(#trigGlow)">[ CLASSIFIED CREDENTIAL · ENCRYPTED FILE ]</text>
+  <text x="124" y="75" font-family="'Segoe UI', Arial, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" letter-spacing="1.2">SHADOW CODER ID · PLAYER STATUS</text>
+  <text x="124" y="100" font-family="'Segoe UI', Arial, sans-serif" font-size="12.5" fill="#94A3B8">Hidden by default — click to decrypt and initialize animated Hunter ID</text>
+
+  <!-- Right Action Reticle -->
+  <rect x="652" y="46" width="174" height="44" fill="#071a33" stroke="#00E5FF" stroke-width="1.4" filter="url(#trigGlow)"/>
+  <rect x="656" y="50" width="166" height="36" fill="none" stroke="#38BDF8" stroke-width="0.6" stroke-opacity="0.45"/>
+  <text x="739" y="73" text-anchor="middle" font-family="'Consolas', 'Courier New', monospace" font-size="12.5" font-weight="700" fill="#E0F7FF" letter-spacing="1.5">&#9656; UNLOCK ID
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
+

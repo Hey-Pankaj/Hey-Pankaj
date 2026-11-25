@@ -90,15 +90,23 @@
     <rect x="42" y="32" width="596" height="776" rx="2" fill="none" stroke="#0088ff" stroke-width="0.8" stroke-opacity="0.25"/>
 
     <!-- Animated Holographic Scanline -->
-    <rect x="42" y="32" width="596" height="70" fill="url(#scanBeam)" opacity="0.4">
-      <animate attributeName="y" values="30;740;30" dur="7s" repeatCount="indefinite"/>
-    </rect>
+    <g opacity="0.72">
+      <rect x="42" y="32" width="596" height="72" fill="url(#scanBeam)">
+        <animate attributeName="y" values="30;736;30" dur="3.8s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="42" y="66" width="596" height="2" fill="#00f0ff" opacity="0.45" filter="url(#cyanGlow)">
+        <animate attributeName="y" values="64;770;64" dur="3.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
 
     <!-- Corner Brackets -->
-    <path d="M 38 52 V 28 H 62" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#cyanGlow)"/>
-    <path d="M 618 28 H 642 V 52" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#cyanGlow)"/>
-    <path d="M 38 788 V 812 H 62" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#cyanGlow)"/>
-    <path d="M 618 812 H 642 V 788" fill="none" stroke="#00f0ff" stroke-width="2.5" filter="url(#cyanGlow)"/>
+    <g filter="url(#cyanGlow)">
+      <path d="M 38 52 V 28 H 62" fill="none" stroke="#00f0ff" stroke-width="2.5"/>
+      <path d="M 618 28 H 642 V 52" fill="none" stroke="#00f0ff" stroke-width="2.5"/>
+      <path d="M 38 788 V 812 H 62" fill="none" stroke="#00f0ff" stroke-width="2.5"/>
+      <path d="M 618 812 H 642 V 788" fill="none" stroke="#00f0ff" stroke-width="2.5"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </g>
 
     <!-- Corner Reticle Crosses -->
     <text x="52" y="47" class="cross mono">+</text>
@@ -144,35 +152,45 @@
     <text x="500" y="358" class="attr-num mono" text-anchor="end">—</text>
     <!-- Mini Meter Track -->
     <rect x="525" y="348" width="85" height="6" fill="#142c44" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <rect x="527" y="350" width="35" height="2" fill="#00f0ff" opacity="0.8"/>
+    <rect x="527" y="350" width="35" height="2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="width" values="28;52;28" dur="2.8s" begin="0s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- Attribute: Agility -->
     <text x="70" y="392" class="attr-lbl mono">AGILITY</text>
     <line x1="175" y1="388" x2="480" y2="388" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 5" stroke-opacity="0.3"/>
     <text x="500" y="392" class="attr-num mono" text-anchor="end">—</text>
     <rect x="525" y="382" width="85" height="6" fill="#142c44" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <rect x="527" y="384" width="35" height="2" fill="#00f0ff" opacity="0.8"/>
+    <rect x="527" y="384" width="35" height="2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="width" values="28;56;28" dur="2.8s" begin="0.35s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- Attribute: Stamina -->
     <text x="70" y="426" class="attr-lbl mono">STAMINA</text>
     <line x1="175" y1="422" x2="480" y2="422" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 5" stroke-opacity="0.3"/>
     <text x="500" y="426" class="attr-num mono" text-anchor="end">—</text>
     <rect x="525" y="416" width="85" height="6" fill="#142c44" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <rect x="527" y="418" width="35" height="2" fill="#00f0ff" opacity="0.8"/>
+    <rect x="527" y="418" width="35" height="2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="width" values="28;48;28" dur="2.8s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- Attribute: Intelligence -->
     <text x="70" y="460" class="attr-lbl mono">INTELLIGENCE</text>
     <line x1="175" y1="456" x2="480" y2="456" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 5" stroke-opacity="0.3"/>
     <text x="500" y="460" class="attr-num mono" text-anchor="end">—</text>
     <rect x="525" y="450" width="85" height="6" fill="#142c44" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <rect x="527" y="452" width="35" height="2" fill="#00f0ff" opacity="0.8"/>
+    <rect x="527" y="452" width="35" height="2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="width" values="28;62;28" dur="2.8s" begin="1.05s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- Attribute: Sense -->
     <text x="70" y="494" class="attr-lbl mono">SENSE</text>
     <line x1="175" y1="490" x2="480" y2="490" stroke="#00f0ff" stroke-width="1" stroke-dasharray="2 5" stroke-opacity="0.3"/>
     <text x="500" y="494" class="attr-num mono" text-anchor="end">—</text>
     <rect x="525" y="484" width="85" height="6" fill="#142c44" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
-    <rect x="527" y="486" width="35" height="2" fill="#00f0ff" opacity="0.8"/>
+    <rect x="527" y="486" width="35" height="2" fill="#00f0ff" opacity="0.9">
+      <animate attributeName="width" values="28;50;28" dur="2.8s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- D. EXPERIENCE SECTION -->
     <rect x="70" y="525" width="540" height="92" fill="#020a16" fill-opacity="0.75" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.35"/>
@@ -182,7 +200,7 @@
     <!-- XP Bar Track -->
     <rect x="90" y="563" width="500" height="8" fill="#0a2036" stroke="#00f0ff" stroke-width="0.8" stroke-opacity="0.4"/>
     <rect x="91" y="564" width="175" height="6" fill="url(#xpBarGrad)">
-      <animate attributeName="opacity" values="0.85;1;0.85" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.65;1;0.65" dur="2s" repeatCount="indefinite"/>
     </rect>
 
     <text x="90" y="598" class="xp-foot mono">NEXT LEVEL</text>
@@ -193,7 +211,9 @@
     <!-- Left Accent Bar -->
     <rect x="70" y="635" width="4" height="120" fill="#00f0ff" filter="url(#cyanGlow)"/>
 
-    <text x="90" y="662" class="msg-tag mono" filter="url(#cyanGlow)">[ SYSTEM MESSAGE ]</text>
+    <text x="90" y="662" class="msg-tag mono" filter="url(#cyanGlow)">[ SYSTEM MESSAGE ]
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="2s" repeatCount="indefinite"/>
+    </text>
     <text x="90" y="688" class="msg-title">WELCOME, PLAYER.</text>
     <text x="90" y="711" class="msg-body mono">YOUR JOURNEY HAS BEGUN.</text>
     <line x1="90" y1="724" x2="590" y2="724" stroke="#c084fc" stroke-width="0.8" stroke-dasharray="3 3" stroke-opacity="0.35"/>
@@ -201,5 +221,5 @@
   </g>
 
   <!-- System Sub-tag -->
-  <text x="340" y="834" text-anchor="middle" font-family="'Share Tech Mono', monospace" font-size="10" fill="#6393b4" opacity="0.6" letter-spacing="2">THE SYSTEM // MONARCH INTERFACE</text>
+  <text x="340" y="834" text-anchor="middle" font-family="'Share Tech Mono', monospace" font-size="10" fill="#6393b4" opacity="0.6" letter-spacing="2">THE SYSTEM · MONARCH INTERFACE</text>
 </svg>

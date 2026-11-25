@@ -20,7 +20,7 @@
 </p>
 
 <!-- SECTION 01: HUNTER STATUS HUD & RANK CLASSIFICATION -->
-<h2 align="center">[ 01 ] HUNTER SYSTEM STATUS &amp; RANK PROTOCOL ]</h2>
+<h2 align="center">[ 01 ] · HUNTER SYSTEM STATUS &amp; RANK PROTOCOL</h2>
 
 <p align="center">
   <a href="https://solo-leveling-live-hunter.vercel.app" target="_blank">
@@ -32,6 +32,21 @@
   </a>
 </p>
 
+<!-- CLASSIFIED SHADOW CODER ID (HIDDEN UNTIL CLICKED) -->
+<div align="center">
+<details>
+  <summary>
+    <img src="svgs/shadow-id-trigger.svg" width="840" alt="Classified Shadow Coder ID — Click to Open Animated Status"/>
+  </summary>
+  <br/>
+  <p align="center">
+    <img src="svgs/hunter-status.svg" width="640" alt="Shadow Coder ID — Animated Player Status"/>
+  </p>
+</details>
+</div>
+
+<br/>
+
 <p align="center">
   <img src="svgs/hunter-rank-system.svg" width="860" alt="Hunter Association Rank Classification System"/>
 </p>
@@ -41,7 +56,7 @@
 </p>
 
 <!-- SECTION 02: BEYOND THE CODE & ENGINEERING WORKFLOW -->
-<h2 align="center">[ 02 ] BEYOND THE CODE — THE HUMAN BEHIND THE SYSTEM ]</h2>
+<h2 align="center">[ 02 ] · BEYOND THE CODE — THE HUMAN BEHIND THE SYSTEM</h2>
 
 <p align="center">
   <i>"Code is the tool; curiosity and first-principles thinking are the engine."</i>
@@ -79,7 +94,7 @@
 </p>
 
 <!-- SECTION 03: ACTIVE QUEST SYSTEM NOTIFICATION -->
-<h2 align="center">[ 03 ] ACTIVE QUEST — SYSTEM NOTIFICATION ]</h2>
+<h2 align="center">[ 03 ] · ACTIVE QUEST — SYSTEM NOTIFICATION</h2>
 
 <p align="center">
   <img src="svgs/active-quest.svg" width="860" alt="System Notification — The Active Quest"/>
@@ -90,7 +105,7 @@
 </p>
 
 <!-- SECTION 04: DUNGEON GATE REGISTRY & CLEARED REALMS -->
-<h2 align="center">[ 04 ] DUNGEON GATE REGISTRY &amp; CLEARED REALMS ]</h2>
+<h2 align="center">[ 04 ] · DUNGEON GATE REGISTRY &amp; CLEARED REALMS</h2>
 
 <p align="center">
   <img src="svgs/dungeon-gate-registry.svg" width="860" alt="Dungeon Gate Registry — Cleared &amp; Upcoming Gates"/>
@@ -215,7 +230,7 @@ Automated urban parking &amp; vision IoT platform pairing overhead bay-detection
 </p>
 
 <!-- SECTION 05: TECHNICAL ARSENAL & LEARNING STAGES -->
-<h2 align="center">[ 05 ] TECHNICAL ARSENAL &amp; MASTERY TIERS ]</h2>
+<h2 align="center">[ 05 ] · TECHNICAL ARSENAL &amp; MASTERY TIERS</h2>
 
 <table align="center" width="100%">
 <tr>
@@ -262,7 +277,7 @@ Automated urban parking &amp; vision IoT platform pairing overhead bay-detection
 </p>
 
 <!-- SECTION 06: THE SHADOW ARMY (COMPANION ECOSYSTEM) -->
-<h2 align="center">[ 06 ] THE SHADOW ARMY — DEVELOPER ECOSYSTEM ]</h2>
+<h2 align="center">[ 06 ] · THE SHADOW ARMY — DEVELOPER ECOSYSTEM</h2>
 
 <p align="center">
   <i>"Companion metaphors mapping the Monarch's commanders to real engineering domains."</i>
@@ -329,7 +344,7 @@ Automated urban parking &amp; vision IoT platform pairing overhead bay-detection
 </p>
 
 <!-- SECTION 07: HUNTER PROGRESSION -->
-<h2 align="center">[ 07 ] HUNTER PROGRESSION &amp; GUILD TELEMETRY ]</h2>
+<h2 align="center">[ 07 ] · HUNTER PROGRESSION &amp; GUILD TELEMETRY</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hey-Pankaj&theme=tokyonight&hide_border=true&background=080808&ring=A855F7&fire=3B82F6&currStreakLabel=A855F7" alt="GitHub Streak Stats"/>
