@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="24" viewBox="0 0 860 24" role="presentation">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#7C3AED" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="75%" stop-color="#A855F7" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="runeGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <line x1="0" y1="12" x2="412" y2="12" stroke="url(#divGrad)" stroke-width="1.2"/>
+  <line x1="448" y1="12" x2="860" y2="12" stroke="url(#divGrad)" stroke-width="1.2"/>
+  <polygon points="430,4 438,12 430,20 422,12" fill="#080808" stroke="#A855F7" stroke-width="1.5" filter="url(#runeGlow)"/>
+  <circle cx="430" cy="12" r="2.2" fill="#38BDF8"/>
+</svg>
+
